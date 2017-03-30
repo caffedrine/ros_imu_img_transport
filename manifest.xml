@@ -1,0 +1,20 @@
+<package>
+  <description brief="ros_imu_img_transport">
+  	Transfer Image and IMU informations across ROS nodes. In other words, this note takes data from selected CAMERA and from IMU and then publish'em!
+
+  </description>
+  <author>Alexandru C.</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_imu_img_transport</url>
+
+  <depend package="sensor_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="cv_bridge"/>
+  <depend package="std_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+
+</package>
+
+
