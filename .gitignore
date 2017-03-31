@@ -1,4 +1,9 @@
 bin/
 build/
 *.user
+*.*.user
 *~
+*.*~
+src/ros_imu_img_transport
+msg_gen/
+

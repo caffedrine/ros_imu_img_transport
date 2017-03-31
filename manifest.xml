@@ -8,12 +8,13 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/ros_imu_img_transport</url>
 
-  <depend package="sensor_msgs"/>
-  <depend package="image_transport"/>
-  <depend package="cv_bridge"/>
   <depend package="std_msgs"/>
   <depend package="roscpp"/>
   <depend package="rospy"/>
+  <depend package="sensor_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="cv_bridge"/>
+
 
 </package>
 
